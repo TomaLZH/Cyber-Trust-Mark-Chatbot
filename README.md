@@ -39,10 +39,6 @@ This project addresses these gaps by leveraging a chatbot to provide real-time, 
 - **Improved Security Posture**: Helps SMEs establish a strong foundation in cybersecurity.
 - **Enhanced Trustworthiness**: Strengthens the enterprise’s reputation in the market.
 
-### Usage
-The chatbot is hosted online for easy access. Users can simply visit the provided link to start interacting with the chatbot:
-
-[Access the Chatbot Here]()
 
 ### Results
 I have used a method called [LLM-as-a-Judge](https://arxiv.org/abs/2306.05685) to use gpt4o-mini to grade my answers as compared to gpt4o-mini answers. These are the results
